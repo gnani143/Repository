@@ -1,0 +1,6 @@
+framework module Pods_DocumentRepository {
+  umbrella header "Pods-DocumentRepository-umbrella.h"
+
+  export *
+  module * { export * }
+}
